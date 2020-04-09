@@ -750,7 +750,9 @@ span.title {
 .tab-main #tab10:checked ~ #content10,
 .tab-main #tab11:checked ~ #content11,
 .tab-main #tab12:checked ~ #content12,
-.tab-main #tab13:checked ~ #content13 {
+.tab-main #tab13:checked ~ #content13,
+.tab-main #tab14:checked ~ #content14,
+.tab-main #tab15:checked ~ #content15 {
     display: block;
 }
 
@@ -777,6 +779,11 @@ p.price {
     margin-top: 1em;
 }
 
+p.dis {
+    color: #000000;
+    font-size: 10px;
+    margin-top: 0.8em;
+}
 .tab-main img {
     width: 40%;
 }
