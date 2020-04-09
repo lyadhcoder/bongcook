@@ -752,7 +752,9 @@ span.title {
 .tab-main #tab12:checked ~ #content12,
 .tab-main #tab13:checked ~ #content13,
 .tab-main #tab14:checked ~ #content14,
-.tab-main #tab15:checked ~ #content15 {
+.tab-main #tab15:checked ~ #content15,
+.tab-main #tab16:checked ~ #content16,
+.tab-main #tab17:checked ~ #content17 {
     display: block;
 }
 
